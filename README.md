@@ -13,29 +13,6 @@ dinámicas y con un diseño limpio ✨
 
 ---
 
-## 🧑‍💻 Tecnologías que utilizo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,tailwind,figma&theme=light" />
-</p>
-
-
-## 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/david-andreica-06534b304/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:davidandreica127@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🚀 Tecnologías que utilizo
 
 <p align="center">
@@ -57,6 +34,22 @@ dinámicas y con un diseño limpio ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
 
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-andreica-06534b304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:davidandreica127@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 🌟 Proyectos Destacados
 
