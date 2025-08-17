@@ -40,7 +40,7 @@ dinámicas y con un diseño limpio ✨
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [KebabScore](https://kebabscore.netlify.app/) | App Web para reseñar kebabs | React, TailwindCSS |
+| [KebabScore](https://github.com/Daidarzz/kebabscore) | App Web para reseñar kebabs | React, TailwindCSS |
 
 
 ---
