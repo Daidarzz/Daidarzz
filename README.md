@@ -23,13 +23,13 @@ dinámicas y con un diseño limpio ✨
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/david-andreica-06534b304/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://tu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:davidandreica127@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -40,7 +40,7 @@ dinámicas y con un diseño limpio ✨
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [KebabScore](https://github.com/Daidarzz/kebabscore) | App Web para reseñar kebabs | React, TailwindCSS |
+| [🥙 KebabScore](https://github.com/Daidarzz/kebabscore) | App Web para reseñar kebabs | React, TailwindCSS |
 
 
 ---
