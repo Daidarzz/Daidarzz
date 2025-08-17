@@ -4,12 +4,12 @@
 </p>
 
 <!-- Presentación -->
-<h2 align="center">🚀 Web Developer | Frontend & Backend Enthusiast</h2>
+<h2 align="center">🚀 David Andreica | Web Developer</h2>
 
 <p align="center">
-Soy un desarrollador web apasionado por construir experiencias digitales modernas, 
-dinámicas y con un diseño limpio ✨
+Apasionado por el desarrollo de aplicaciones web rápidas, escalables y con un diseño claro y funcional.
 </p>
+
 
 ---
 
@@ -21,7 +21,7 @@ dinámicas y con un diseño limpio ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 
   <!-- Backend & DB -->
@@ -31,8 +31,8 @@ dinámicas y con un diseño limpio ✨
   <!-- DevOps & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://api.iconify.design/simple-icons:netlify.svg" alt="Netlify" width="50" height="50"/>
+  <img src="https://api.iconify.design/logos:aws.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://api.iconify.design/logos:netlify.svg" alt="Netlify" width="50" height="50"/>
 
   <!-- Control de versiones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
