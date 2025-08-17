@@ -19,16 +19,6 @@ dinámicas y con un diseño limpio ✨
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,tailwind,figma&theme=light" />
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidAndreica&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAndreica&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ## 🌐 Conecta conmigo
 
@@ -50,9 +40,8 @@ dinámicas y con un diseño limpio ✨
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [🌍 Portfolio](https://tu-portfolio.com) | Mi portafolio personal con React y animaciones | React, TailwindCSS |
-| [⚡ API REST](https://github.com/) | API RESTful con autenticación JWT | Node.js, Express, MongoDB |
-| [🎨 Landing Page](https://github.com/) | Página responsive con UI moderna | HTML, CSS, JS |
+| [🥙 KebabScore]([https://kebabscore.netlify.app/)) | Mi portafolio personal
+
 
 ---
 
