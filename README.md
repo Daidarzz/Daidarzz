@@ -1,7 +1,8 @@
 <!-- Encabezado con animación -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=👋 Hola%20soy%20David%20Andreica&fontSize=30&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hola%20soy%20David%20Andreica&fontSize=30&fontColor=fff"/>
 </p>
+
 
 <!-- Presentación -->
 <h2 align="center">🚀 David Andreica | Web Developer</h2>
