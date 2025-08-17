@@ -1,16 +1,17 @@
 <!-- Encabezado con animación -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hola%20soy%20David%20Andreica&fontSize=30&fontColor=fff"/>
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=David%20Andreica&fontSize=35&fontColor=fff&animation=fadeIn"/>
 </p>
+
 
 
 
 
 <!-- Presentación -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=00CFFF&center=true&vCenter=true&width=600&letterSpacing=2&lines=%F0%9F%9A%80+Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=1E2A38&center=true&vCenter=true&width=600&letterSpacing=2&lines=%F0%9F%9A%80+Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
+
 
 
 
