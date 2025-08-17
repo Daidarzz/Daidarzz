@@ -13,6 +13,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=FF4B4B&center=true&vCenter=true&width=600&letterSpacing=2&lines=%F0%9F%9A%80+Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
+<svg fill="none" width="100%" xmlns="http://www.w3.org/2000/svg">
+ <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      .typing {
+        width: 22ch;
+        animation: typing 2s steps(22), blink .75s step-end infinite alternate;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 3px solid;
+        font-family: monospace;
+        font-size: 2.5em;
+        background: linear-gradient(90deg, #00f1dc, #5673f1, #ff00ff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      @keyframes typing { from { width: 0 } }
+      @keyframes blink { from, to { border-color: transparent } 50% { border-color: #ff00ff } }
+    </style>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+      <div class="typing">Full-Stack Web Developer</div>
+    </div>
+  </div>
+ </foreignObject>
+</svg>
+
+
 
 
 <p align="center">
