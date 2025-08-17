@@ -1,7 +1,8 @@
 <!-- Encabezado con animación -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=David%20Andreica&fontSize=35&fontColor=fff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=David%20Andreica&fontSize=60&fontColor=fff&animation=fadeIn"/>
 </p>
+
 
 
 
