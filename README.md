@@ -9,7 +9,10 @@
 
 
 <!-- Presentación -->
-<h2 align="center">🚀 David Andreica | Web Developer</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Web+Developer" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
 Apasionado por el desarrollo de aplicaciones web rápidas, escalables y con un diseño claro y funcional.
