@@ -10,8 +10,9 @@
 
 <!-- Presentación -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=FF4B4B&center=true&vCenter=true&width=600&letterSpacing=2&lines=%F0%9F%9A%80+Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
