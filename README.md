@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hola%20soy%20David%20Andreica&fontSize=30&fontColor=fff"/>
   <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
 
 
@@ -12,9 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=FF4B4B&center=true&vCenter=true&width=600&letterSpacing=2&lines=%F0%9F%9A%80+Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
-<div align="center">
-  <img src="./header.svg" alt="Full-Stack Web Developer" />
-</div>
 
 
 
