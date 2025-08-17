@@ -32,7 +32,7 @@ Apasionado por el desarrollo de aplicaciones web rápidas, escalables y con un d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
   <img src="https://api.iconify.design/logos:aws.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://api.iconify.design/logos:netlify.svg" alt="Netlify" width="50" height="50"/>
+  
 
   <!-- Control de versiones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
